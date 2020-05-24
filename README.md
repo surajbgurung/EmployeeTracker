@@ -17,4 +17,6 @@ __user__ can do following things:
 
   * Delete departments, roles, and employees
 
+## Demostration 
+![employee](./part1.gif) 
 
